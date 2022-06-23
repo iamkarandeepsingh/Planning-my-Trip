@@ -23,6 +23,7 @@
 - Discover
 
 ![Discover](https://user-images.githubusercontent.com/44429049/175070947-d5f8e1a8-20de-4190-9f68-2a827cd9b9a2.jpeg)
+
 ![Discover_2](https://user-images.githubusercontent.com/44429049/175071465-aedbf127-80da-45c7-b8af-8c163760268d.jpeg)
 
 - Video for reference 
@@ -49,6 +50,7 @@
 - Discover
 
 ![Discover_dark](https://user-images.githubusercontent.com/44429049/175073336-dedc2035-33ee-490c-ba88-28759ea4c7cd.jpeg)
+
 ![Discover2_dark](https://user-images.githubusercontent.com/44429049/175073394-448fa773-8bd0-4933-abc0-0d68a9611b29.jpeg)
 
 - Video for reference
