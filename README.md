@@ -56,7 +56,7 @@
 
 - Video for reference
 
-![Incredible India_dark](https://user-images.githubusercontent.com/44429049/175073472-29e96ab6-eb5f-4b52-849e-76e629e6fd50.jpeg)
+![Incredible India_dark](https://github.com/iamkarandeepsingh/Planning-my-Trip/assets/44429049/18f07c1a-a1ce-48ac-951d-e4620d0af77c)
 
 - Destination
 
